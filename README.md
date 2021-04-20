@@ -1,6 +1,6 @@
 # :memo: Go To Do App
 
-This is a to-do list application.
+This is a to-do list application I made during quarantine to 'do stuff'.
 
 **Server: Golang  
 Client: React, semantic-ui-react  
