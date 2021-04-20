@@ -1,14 +1,12 @@
 # :memo: Go To Do App
 
-This is a to-do list application. The complete tutorial is published on [my blog](https://schadokar.dev/posts/build-a-todo-app-in-golang-mongodb-and-react/).
+This is a to-do list application.
 
 **Server: Golang  
 Client: React, semantic-ui-react  
 Database: Local MongoDB**
 
 The offline version of application `Get Shit Done` is hosted at
-
-:link: https://schadokar.github.io/go-to-do-app/
 
 :link: http://getshitdone.surge.sh
 
@@ -17,7 +15,7 @@ The offline version of application `Get Shit Done` is hosted at
 # Highlights
 
 1. DB connection string, name and collection name moved to `.env` file as environment variable. Using `github.com/joho/godotenv` to read the environment variables.
-2. [feature/cloud-native-deployment](https://github.com/abdennour/go-to-do-app/tree/feature/cloud-native-deployment) provided by [abdennour](https://github.com/abdennour). Thank you [@abdennour](https://github.com/abdennour) to dockerize it. His features supports both Docker and Kubernetes.
+2. [feature/cloud-native-deployment](https://github.com/abdennour/go-to-do-app/tree/feature/cloud-native-deployment) provided by [abdennour](https://github.com/abdennour).
 
 ## Application Requirement
 
@@ -84,10 +82,8 @@ To delete a task, click on "delete" Icon.
 
 ## Author
 
-#### :sun_with_face: Shubham Kumar Chadokar
+#### :sun_with_face: Zahid
 
-I am software engineer and love to write articles and tutorials on golang, blockchain, and nodejs.  
-Please checkout my other articles on :link: https://schadokar.dev :tada:
 
 # References
 
@@ -99,4 +95,4 @@ https://vkt.sh/go-mongodb-driver-cookbook/
 
 MIT License
 
-Copyright (c) 2019 Shubham Chadokar
+Copyright (c) 2019 Zahid
